@@ -26527,7 +26527,7 @@ lyricOneZero = \lyricmode {
 }
 
 lyricTwoZero = \lyricmode {
-  A -- o -- a -- o -- a O -- a -- o -- a -- o Bla -- go o -- nom ko -- ji ne sla -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
+  A -- o -- a -- o -- a O -- a -- o -- a -- o Bla -- go o -- nom ko -- ji ne slu -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
   Svo -- je da -- ne on ne pro -- vo -- di u ru -- ga -- nju već u -- ži -- va u Bo -- žjem za -- ko -- nu. 
   Ka -- o sta -- blo kraj vo -- de što te -- če ni -- kad ne -- ma u ve -- nu -- lo li -- šće, 
   u svoj čas plod do -- no -- si, 
@@ -26542,7 +26542,7 @@ lyricTwoZero = \lyricmode {
 }
 
 lyricThreeZero = \lyricmode {
-  A -- o -- a -- o -- a O -- a -- o -- a -- o Bla -- go o -- nom ko -- ji ne sla -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
+  A -- o -- a -- o -- a O -- a -- o -- a -- o Bla -- go o -- nom ko -- ji ne slu -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
   Svo -- je da -- ne on ne pro -- vo -- di u ru -- ga -- nju već u -- ži -- va u Bo -- žjem za -- ko -- nu. 
   Ka -- o sta -- blo kraj vo -- de što te -- če ni -- kad ne -- ma u ve -- nu -- lo li -- šće, 
   u svoj čas plod do -- no -- si, 
@@ -26557,7 +26557,7 @@ lyricThreeZero = \lyricmode {
 }
 
 lyricFourZero = \lyricmode {
-  A -- o -- a -- o -- a O -- a -- o -- a -- o Bla -- go o -- nom ko -- ji ne sla -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
+  A -- o -- a -- o -- a O -- a -- o -- a -- o Bla -- go o -- nom ko -- ji ne slu -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
   Svo -- je da -- ne on ne pro -- vo -- di u ru -- ga -- nju već u -- ži -- va u Bo -- žjem za -- ko -- nu. 
   Ka -- o sta -- blo kraj vo -- de što te -- če ni -- kad ne -- ma u ve -- nu -- lo li -- šće, 
   u svoj čas plod do -- no -- si, 
@@ -26572,7 +26572,7 @@ lyricFourZero = \lyricmode {
 }
 
 lyricFiveZero = \lyricmode {
-  A -- o -- a -- o -- a O -- a -- o -- a -- o Bla -- go o -- nom ko -- ji ne sla -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
+  A -- o -- a -- o -- a O -- a -- o -- a -- o Bla -- go o -- nom ko -- ji ne slu -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
   Svo -- je da -- ne on ne pro -- vo -- di u ru -- ga -- nju već u -- ži -- va u Bo -- žjem za -- ko -- nu. 
   Ka -- o sta -- blo kraj vo -- de što te -- če ni -- kad ne -- ma u ve -- nu -- lo li -- šće, 
   u svoj čas plod do -- no -- si, 
