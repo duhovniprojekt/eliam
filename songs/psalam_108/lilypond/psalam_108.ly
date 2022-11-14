@@ -14338,12 +14338,12 @@ lyricFiveZero = \lyricmode {
 \score {
     <<
     %lead start
-    <<
-    \new Staff {
-        \new Voice = "lead" { \staffOne }
-    }
-    \new Lyrics \lyricsto "lead" { \lyricOneZero }
-    >>
+    %<<
+    %\new Staff {
+    %    \new Voice = "lead" { \staffOne }
+    %}
+    %\new Lyrics \lyricsto "lead" { \lyricOneZero }
+    %>>
     %lead end
     %choir start
     \new ChoirStaff {
