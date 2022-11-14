@@ -26512,7 +26512,7 @@ staffFive = \relative c' {
 }
 
 lyricOneZero = \lyricmode {
-  Bla -- go o -- nom ko -- ji ne sla -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
+  Bla -- go o -- nom ko -- ji ne slu -- ša glas o -- pa -- kih i ne ho -- di na pu -- tu gre -- šni -- čkom. 
   Svo -- je da -- ne on ne pro -- vo -- di u ru -- ga -- nju već u -- ži -- va u Bo -- žjem za -- ko -- nu. 
   Ka -- o sta -- blo kraj vo -- de što te -- če ni -- kad ne -- ma u ve -- nu -- lo li -- šće, 
   u svoj čas plod do -- no -- si, 
@@ -26588,12 +26588,12 @@ lyricFiveZero = \lyricmode {
 \score {
     <<
     %lead start
-    <<
-    \new Staff {
-        \new Voice = "lead" { \staffOne }
-    }
-    \new Lyrics \lyricsto "lead" { \lyricOneZero }
-    >>
+    %<<
+    %\new Staff {
+    %    \new Voice = "lead" { \staffOne }
+    %}
+    %\new Lyrics \lyricsto "lead" { \lyricOneZero }
+    %>>
     %lead end
     %choir start
     \new ChoirStaff {
